@@ -17,7 +17,7 @@ This document outlines the ethical framework and usage policy for generative AI 
 
 ## 🔒 Private Research
 
-Please note that the majority of this research project—including data analysis, fieldwork notes, and experimental models—is maintained in a separate private repository.
+Please note that the majority of this research project is maintained in a separate private repository.
 
 ## 🧭 License
 
